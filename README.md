@@ -8,4 +8,7 @@ The visually impaired frequently rely on others to identify currency notes for t
 
 This project proposes a new mobile application that works without any login page or without and particular difficulty or data collection. This will be a simple app which harnesses the power of Convolutional Neural Networks (CNNs) to identify and distinguish between objects. Proposed solution will be in an android application format which will be easy for the user to use. 
 
+# Please Note:
+The final model that we trained is in the files ResNet.ipynb
+
 
